@@ -1,7 +1,7 @@
 {
-  "name": "@farswap/farswap-lib",
+  "name": "@awswap/awswap-lib",
   "version": "0.0.4",
-  "description": "FarSwap Lib",
+  "description": "AWSwap Lib",
   "files": [
     "contracts",
     "!contracts/test"
